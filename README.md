@@ -14,7 +14,6 @@ Prerequisites
 
 - Java Development Kit (JDK) installed.
 - Sphinx-4 library and models configured properly in the project.
-- Compatible JavaScript engine (e.g., Nashorn).
 
 Usage
 
